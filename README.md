@@ -5,6 +5,7 @@
 # One can simply run the program using npm start
 
 Here is the Solution to the last question:
+
 Shops Entity:
 
 Attributes: shop_id (Primary Key), shop_name, location, etc.
