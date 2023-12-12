@@ -11,7 +11,7 @@ module.exports = (X, Y, Z) => {
 
     //<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>
     // here the another using math.max method
-   
+
     // greatestNum = Math.max(X, Y, Z);
     return greatestNum;
 }

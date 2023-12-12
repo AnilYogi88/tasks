@@ -4,8 +4,8 @@ module.exports = (string) => {
     let countObj = Object.create(Object.prototype);
     //  removed white space
     let newString = string.replace(/\s/g, "")
-    for(const char of newString ) {
-        let count =  countObj[char] || 0;
+    for (const char of newString) {
+        let count = countObj[char] || 0;
         countObj[char] = count + 1;
     }
 
